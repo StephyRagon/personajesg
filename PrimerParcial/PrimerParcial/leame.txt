@@ -1,0 +1,4 @@
+Para esta pagina se utilizo tarjetas para poner la informacion de las personas destacadas
+del pais; estas tarjetas contienen una imagen, el nombre y informacion de cada persona.
+Asi mismo se tiene un pequeño apartado para que se ingrese que otro personaje se podria agregar a la pagina
+Esta pagina esta creada con html y boostrap 
